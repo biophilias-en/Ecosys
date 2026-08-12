@@ -2,6 +2,8 @@
 
 <img src=https://octodex.github.com/images/chellocat.jpg alt=celebrate width=150 align=right>
 
+**Approved ✅**
+
 _Congratulations! You've completed this exercise!_
 
 Here's a recap of the tasks you've accomplished in this exercise:
