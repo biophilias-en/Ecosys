@@ -2,7 +2,7 @@
 
 <img src=https://octodex.github.com/images/chellocat.jpg alt=celebrate width=150 align=right>
 
-**Complete ✅**
+**Automated code review: no comments. ✅**
 
 _Congratulations! You've completed this exercise!_
 
